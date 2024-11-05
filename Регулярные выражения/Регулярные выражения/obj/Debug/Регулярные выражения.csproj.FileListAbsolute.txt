@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\bin\Debug\Регулярные выражения.exe.config
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\bin\Debug\Регулярные выражения.exe
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\bin\Debug\Регулярные выражения.pdb
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\obj\Debug\Регулярные выражения.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\obj\Debug\Регулярные выражения.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\obj\Debug\Регулярные выражения.exe
+C:\Users\sasha\source\repos\Регулярные выражения\Регулярные выражения\obj\Debug\Регулярные выражения.pdb
